@@ -8,7 +8,7 @@ Here are a few quick links about me:
 
 
  👀  I’m interested in iOS software development or any position that will teach me something new!
-- 🌱 I’m currently learning Swift, Objective C, Java
+- 🌱 I’m currently learning Swift, Objective C, Scala, Python, Java
 
 <!---
 kawaxman/kawaxman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

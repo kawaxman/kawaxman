@@ -6,8 +6,6 @@ Here are a few quick links about me:
 
 <a href = "https://twitter.com/kawaxman"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kawaxman?style=social"> </a>
 
-
- 👀  I’m interested in iOS software development or any position that will teach me something new!
 - 🌱 I’m currently learning Swift, Objective C, Scala, Python, Java
 
 <!---
